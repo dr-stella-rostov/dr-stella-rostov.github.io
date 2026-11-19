@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Адрес GitHub Pages; при подключении своего домена заменить
+Sitemap: https://dr-stella-rostov.github.io/sitemap.xml
